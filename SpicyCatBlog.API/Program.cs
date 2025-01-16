@@ -47,3 +47,13 @@ public class Program
 		app.Run();
 	}
 }
+
+// TODO
+// repr pattern
+// command bus
+// cqrs-mediatr
+// vsa, clean architecture
+// redis
+// rabbitmq
+// opentelemetry
+// waitlist for the emailservice
