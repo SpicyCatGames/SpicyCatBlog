@@ -1,0 +1,6 @@
+@SpicyCatBlog.API_HostAddress = http://localhost:5212
+
+GET {{SpicyCatBlog.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
